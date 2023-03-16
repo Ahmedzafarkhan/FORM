@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#loginform{
+    height: 450px;
+    width: 400px;
+    border: 2px solid black;
+    margin: auto;
+    padding: 15px;
+    background-color:gray;
+}
+#lf{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+.up{
+    width: 390px;
+    height: 20;
+}
+#dob{
+    margin-left: 55px;
+    margin-top: 25px;
+}
+
+#country{
+     margin-left: 120px;
+     margin-top: 25px;
+}
+#gender{
+margin-left: 82px;
+margin-top: 25px;
+}
+#si{
+    margin-left: 160px;
+    margin-top: 25px;
+    font-size: 20px;
+    height: 30px;
+    width: 75px;
+     border-radius:5px ;
+     background-color: black;
+     color: beige;
+     border-color: bisque;
+}
